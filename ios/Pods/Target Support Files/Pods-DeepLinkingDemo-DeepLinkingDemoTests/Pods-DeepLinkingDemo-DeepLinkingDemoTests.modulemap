@@ -1,0 +1,6 @@
+module Pods_DeepLinkingDemo_DeepLinkingDemoTests {
+  umbrella header "Pods-DeepLinkingDemo-DeepLinkingDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
